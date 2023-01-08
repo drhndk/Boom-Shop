@@ -4,6 +4,14 @@
     font-weight: 500;
 }
 
+
+/* corousel */
+    .corousel {
+        margin-top: 75px;
+    }
+/* courosel end */
+
+/* kategori */
 .konten-img {
     width: 40px;
     height: 40px;
@@ -22,18 +30,20 @@
 .kategori {
     background-color: crimson;
 }
+/* kategori end */
 
+/* produk */
 .card:hover {
     border: 2px solid crimson;
 }
+/* produk end */
 
 /* footer */
 footer {
-    height: 65px;
+    
 }
 
 .i-footer {
-    color: white;
     letter-spacing: 10px;
     text-decoration: none;
 }
